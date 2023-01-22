@@ -81,6 +81,19 @@ useful data and advice for buying domains. Curated for notable, non domain spamm
 - dont decide the name
   - https://lauraroeder.com/how-i-nabbed-the-com-for-my-bootstrapped-startup-without-spending-a-million-bucks-6dc35c4606e9
   - My single biggest tip for getting a good deal on a domain purchase is being able to go into a transaction outcome independent. Like each time, we hadn't chosen our company name yet so had a good amount of leverage to simply choose a different name if we didn't like the price. https://twitter.com/ankurnagpal/status/1587438361559662593
+- Ideally, buy the .com before you've launched. Sellers increase the price if they know you have a company that is doing well and has a brand to protect. https://twitter.com/mariogabriele/status/1583194906516127745?s=20
+
+### Wait
+
+- We first reached out for http://generalist.com in Feb '21.  We closed in Feb '22. 
+
+### Negotiation
+
+- Beware of false comparisons/ The broker in our transaction tried to compare http://generalist.com to random domains as a way of justifying a high price point. E.g.: Saying we should pay $40K bc cycling[.]com cost that much. Find better comparisons
+Do some research to find domains that actually *are* similar and see what they sold for. 
+Use these as better anchors for the discussion.
+- Find out how much the domain was last bought for. Sometimes, you can find a record of what the domain was last purchased for. 
+- Settle on a walk-away price. You probably want some wiggle from the first price you give to the price you'll accept. 
 
 ## Recommended domain brokers
 
