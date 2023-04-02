@@ -26,6 +26,7 @@ useful data and advice for buying domains. Curated for notable, non domain spamm
 | 2014 	| sjo.com 	| 26 	| yes 	| yes 	|  	| [@sol_orwell](https://twitter.com/sol_orwell/status/1587909388076843008) |
 | 2015 	| teachable.com 	| 25 	| yes 	|  	| yes 	| [@ankurnagpal](https://twitter.com/ankurnagpal/status/1587438361559662593) 	|
 | 2015 	| duo.com 	| 250 	| yes 	| yes 	| yes 	| [@jonoberheide](https://twitter.com/jonoberheide/status/1587491074519465991) |
+| 2016 	| swag.com 	| 1200 	| yes 	| yes 	|  	| [Jeremy Parker](https://overcast.fm/+PpI2PCL74) |
 | 2016 	| pet.org 	| 25 	|  	| yes 	| yes 	| [@sol_orwell](https://twitter.com/sol_orwell/status/1587909388076843008) |
 | 2017 	| sumo.com 	| 1500 	| yes 	| yes 	| yes 	| [writeup](https://www.entrepreneur.com/starting-a-business/why-i-spent-15-million-on-our-domain/288629) and [podcast](https://www.listennotes.com/podcasts/noah-kagan-presents/08-what-i-learned-spending-aTYgBVrLlwc/) 	|
 | 2017 	| citizen.com 	| 75 	| yes 	|  	| yes 	| [@AlexejKirillov](https://twitter.com/AlexejKirillov/status/1588572800255922176) |
