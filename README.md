@@ -40,6 +40,7 @@ useful data and advice for buying domains. Curated for notable, non domain spamm
 | 2022 	| ocho.com 	| 45 	| yes 	| yes 	| yes 	| [@ankurnagpal](https://twitter.com/ankurnagpal/status/1587438361559662593) 	|
 | 2022 	| increasing.com 	| 15 	| yes 	|  	| yes 	| [@Jamie_IF](https://twitter.com/Jamie_IF/status/1587455101991518208) |
 | 2023 	| eraser.io 	| 10 	| yes 	|  	|  	| [@shinkim](https://twitter.com/_shinkim/status/1625347214414589952) |
+| 2023 	| chat.com 	| >10,000 	| yes 	| yes	| yes	| [Dharmesh Shah](https://www.linkedin.com/posts/dharmesh_chatux-ai-chatux-activity-7046856167502848001-Rmxa/?utm_source=share&utm_medium=member_desktop) |
 | ? 	| rows.com 	| 110 	| yes 	| yes 	| yes 	| [@colinwinhall](https://twitter.com/colinwinhall/status/1587450555999260672), [writeup](https://rows.com/blog/post/why-and-how-we-rebranded) |
 | ? 	| pilot.com 	| 400 	| yes 	| yes 	| yes 	| [@amaldorai](https://twitter.com/amaldorai/status/1587590041680769025) |
 | ? 	| fillout.com 	| 5 	| yes 	|  	|  	| [@domwhyte42](https://twitter.com/domwhyte42/status/1587447773372129282) |
