@@ -21,6 +21,7 @@ useful data and advice for buying domains. Curated for notable, non domain spamm
 | 2012 	| carcovers.com 	| 400 	| yes 	|  	|  	| [@jonathanvolk](https://twitter.com/jonathanvolk/status/1362515601135046658) and [story](https://techstartups.com/2021/02/20/founder-carcovers-com-grew-startup-8-figure-business-purchase-400000-domain-name/) 	|
 | 2012 	| clever.com 	| 200 	| yes 	| yes 	| yes 	| [@bytingtheapple](https://twitter.com/bytingtheapple/status/1587513605318213633) |
 | 2013 	| liveloop.com 	| 25 	| yes 	|  	|  	| [@amaldorai](https://twitter.com/amaldorai/status/1587590041680769025) |
+| 2013 	| consulting.com 	| 300 	| yes 	|  	| yes 	| https://overcast.fm/+rTsUtBLEs	|
 | 2014 	| musichustle.com 	| 4 	| yes 	|  	|  	| [@saradietschy](https://twitter.com/saradietschy/status/1587447301584330753) |
 | 2014 	| modest.com 	| 40 	| yes 	| yes 	| yes 	| [@harper](https://twitter.com/harper/status/1587465968518922240) |
 | 2014 	| sjo.com 	| 26 	| yes 	| yes 	|  	| [@sol_orwell](https://twitter.com/sol_orwell/status/1587909388076843008) |
