@@ -2,6 +2,8 @@
 
 useful data and advice for buying domains. Curated for notable, non domain spammer type advice.
 
+for current (2024) sales info, particularly AI domains, see https://www.dnjournal.com/ytd-sales-charts.htm)
+
 
 ## Data
 
