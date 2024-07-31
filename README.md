@@ -35,6 +35,7 @@ useful data and advice for buying domains. Curated for notable, non domain spamm
 | 2018 	| hey.com 	| ? 	| yes 	| yes 	| yes 	| https://m.signalvnoise.com/how-we-acquired-hey-com/ 	|
 | 2019 	| unfold.com 	| 100 	| yes 	| yes 	| yes 	| [@9th](https://twitter.com/9th/status/1587446486698188800) |
 | 2019 	| sacra.com 	| 3 	| yes 	| yes 	|  	| [@smalter](https://twitter.com/smalter/status/1587807109961420802) |
+| 2019  | loom.com | 150 | yes | yes |   	| [founder](https://x.com/_shahedk/status/1818438513144348680) |
 | 2020 	| ui.dev 	| 25 	|  	| yes 	|  	| [@tylermcginnis](https://twitter.com/tylermcginnis/status/1587438845422804994) |
 | 2020 	| ux.dev 	| 8 	|  	| yes 	|  	| [@tylermcginnis](https://twitter.com/tylermcginnis/status/1587438845422804994) |
 | 2020 	| paperbell.com 	| 1.8 	| yes 	|  	|  	| [writeup](https://lauraroeder.com/how-i-nabbed-the-com-for-my-bootstrapped-startup-without-spending-a-million-bucks-6dc35c4606e9) 	|
@@ -43,6 +44,7 @@ useful data and advice for buying domains. Curated for notable, non domain spamm
 | 2023 	| eraser.io 	| 10 	| yes 	|  	|  	| [@shinkim](https://twitter.com/_shinkim/status/1625347214414589952) |
 | 2023 	| chat.com 	| >10,000 	| yes 	| yes	| yes	| [Dharmesh Shah](https://www.linkedin.com/posts/dharmesh_chatux-ai-chatux-activity-7046856167502848001-Rmxa/?utm_source=share&utm_medium=member_desktop) |
 | 2023 	| resend.com 	| 25 	| yes 	| yes	| yes	| [Zeno Rocha](https://resend.com/blog/how-to-pick-a-startup-name) |
+| 2023 	| friend.com 	| 1887 	| yes 	| yes	| yes	| [avi schiffman](https://x.com/evisdrenova/status/1818378922012426539?s=46) |
 | ? 	| rows.com 	| 110 	| yes 	| yes 	| yes 	| [@colinwinhall](https://twitter.com/colinwinhall/status/1587450555999260672), [writeup](https://rows.com/blog/post/why-and-how-we-rebranded) |
 | ? 	| pilot.com 	| 400 	| yes 	| yes 	| yes 	| [@amaldorai](https://twitter.com/amaldorai/status/1587590041680769025) |
 | ? 	| fillout.com 	| 5 	| yes 	|  	|  	| [@domwhyte42](https://twitter.com/domwhyte42/status/1587447773372129282) |
