@@ -4,6 +4,7 @@ useful data and advice for buying domains. Curated for notable, non domain spamm
 
 for current (2024) sales info, particularly AI domains, see https://www.dnjournal.com/ytd-sales-charts.htm)
 
+[do not use godaddy](https://news.ycombinator.com/item?id=42967247)
 
 ## Data
 
