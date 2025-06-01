@@ -6,6 +6,9 @@ for current (2024) sales info, particularly AI domains, see https://www.dnjourna
 
 [do not use godaddy](https://news.ycombinator.com/item?id=42967247)
 
+- https://news.ycombinator.com/item?id=44148665 https://github.com/swyxio/tldx
+- https://sive.rs/com
+
 ## Data
 
 
