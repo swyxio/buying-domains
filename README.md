@@ -43,6 +43,7 @@ for current (2024) sales info, particularly AI domains, see https://www.dnjourna
 | 2019 	| unfold.com 	| 100 	| yes 	| yes 	| yes 	| [@9th](https://twitter.com/9th/status/1587446486698188800) |
 | 2019 	| sacra.com 	| 3 	| yes 	| yes 	|  	| [@smalter](https://twitter.com/smalter/status/1587807109961420802) |
 | 2019  | loom.com | 150 | yes | yes |   	| [founder](https://x.com/_shahedk/status/1818438513144348680) |
+| 2019  | notion.com | equity + Grateful Dead (Ron Conway) | yes | yes |   	| [founder](https://x.com/akothari/status/2061863261449154910) |
 | 2020 	| ui.dev 	| 25 	|  	| yes 	|  	| [@tylermcginnis](https://twitter.com/tylermcginnis/status/1587438845422804994) |
 | 2020 	| ux.dev 	| 8 	|  	| yes 	|  	| [@tylermcginnis](https://twitter.com/tylermcginnis/status/1587438845422804994) |
 | 2020 	| paperbell.com 	| 1.8 	| yes 	|  	|  	| [writeup](https://lauraroeder.com/how-i-nabbed-the-com-for-my-bootstrapped-startup-without-spending-a-million-bucks-6dc35c4606e9) 	|
