@@ -21,6 +21,7 @@ for current (2024) sales info, particularly AI domains, see https://www.dnjourna
 | 2004 	| webmaster.org 	| 10 	|  	|  	|  	| [@sol_orwell](https://twitter.com/sol_orwell/status/1587909388076843008) |
 | 2005 	| flurry.com 	| 20 	| yes 	| yes 	| yes 	| [@sbyrnes](https://twitter.com/sbyrnes/status/1587490022709567489) |
 | 2010 	| stripe.com 	| 20 	| yes 	| yes 	| yes 	| [@notjaril](https://x.com/notjaril/status/1616436402744590336) |
+| 2010 	| fb.com 	| 8500 	| yes 	| yes 	| 	| https://techcrunch.com/2011/01/11/facebook-paid-farm-bureau-8-5-million-to-acquire-fb-com/ |
 | 2011 	| mergers.com 	| 50 	| yes 	|  	| yes 	| [@mychannel](https://twitter.com/mychannel/status/1589651269945159680) |
 | 2011 	| examine.com 	| 52 	| yes 	| yes 	| yes 	| [@sol_orwell](https://twitter.com/sol_orwell/status/1587909388076843008) |
 | 2011 	| sincerely.com 	| 25 	| yes 	|  	| yes 	| [@brezina](https://twitter.com/brezina/status/1587507220828200960) |
