@@ -116,3 +116,8 @@ Use these as better anchors for the discussion.
 
 - Lumis.com https://twitter.com/nasdaily/status/1588029851189104640?s=20&t=1fabBPrMKq2PVqrbdiHs2A
 - Peter askew (onions guy)? https://twitter.com/baldridgecpa/status/1587464473169825794
+
+More tools
+- https://smartbranding.com/category/domain-name-upgrades/
+- https://grails.com/insights/unicorn-domains
+  https://grails.com/tools/sector-naming-patterns
