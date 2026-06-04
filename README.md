@@ -54,6 +54,7 @@ for current (2024) sales info, particularly AI domains, see https://www.dnjourna
 | 2023 	| chat.com 	| >10,000 	| yes 	| yes	| yes	| [Dharmesh Shah](https://www.linkedin.com/posts/dharmesh_chatux-ai-chatux-activity-7046856167502848001-Rmxa/?utm_source=share&utm_medium=member_desktop) |
 | 2023 	| resend.com 	| 25 	| yes 	| yes	| yes	| [Zeno Rocha](https://resend.com/blog/how-to-pick-a-startup-name) |
 | 2023 	| friend.com 	| 1887 	| yes 	| yes	| yes	| [avi schiffman](https://x.com/evisdrenova/status/1818378922012426539?s=46) |
+| 2025 	| subagents.com 	| 25,000 	| yes 	| no	| yes	| DM from buyer |
 | 2025 	| ai.com 	| >100,000 	| yes 	| yes	| yes	| [avi schiffman](https://x.com/AviSchiffmann/status/1895918532824875049) |
 | ? 	| rows.com 	| 110 	| yes 	| yes 	| yes 	| [@colinwinhall](https://twitter.com/colinwinhall/status/1587450555999260672), [writeup](https://rows.com/blog/post/why-and-how-we-rebranded) |
 | ? 	| pilot.com 	| 400 	| yes 	| yes 	| yes 	| [@amaldorai](https://twitter.com/amaldorai/status/1587590041680769025) |
