@@ -56,6 +56,7 @@ for current (2024) sales info, particularly AI domains, see https://www.dnjourna
 | 2023 	| friend.com 	| 1887 	| yes 	| yes	| yes	| [avi schiffman](https://x.com/evisdrenova/status/1818378922012426539?s=46) |
 | 2025 	| subagents.com 	| 25,000 	| yes 	| no	| yes	| DM from buyer |
 | 2025 	| ai.com 	| >100,000 	| yes 	| yes	| yes	| [avi schiffman](https://x.com/AviSchiffmann/status/1895918532824875049) |
+| 2026 | folk.com | 250 	| yes 	| yes	| yes	| [paulg](https://x.com/paulg/status/2083628660708561075) |
 | ? 	| rows.com 	| 110 	| yes 	| yes 	| yes 	| [@colinwinhall](https://twitter.com/colinwinhall/status/1587450555999260672), [writeup](https://rows.com/blog/post/why-and-how-we-rebranded) |
 | ? 	| pilot.com 	| 400 	| yes 	| yes 	| yes 	| [@amaldorai](https://twitter.com/amaldorai/status/1587590041680769025) |
 | ? 	| fillout.com 	| 5 	| yes 	|  	|  	| [@domwhyte42](https://twitter.com/domwhyte42/status/1587447773372129282) |
@@ -82,6 +83,8 @@ for current (2024) sales info, particularly AI domains, see https://www.dnjourna
 | ? 	| xmtp.com 	| 18 	| yes 	| yes 	|  	| [@mg](https://twitter.com/mg/status/1587481996946718724) |
 | ? 	| cxl.com 	| 45 	| yes 	| yes 	|  	| [@peeplaja](https://twitter.com/peeplaja/status/1587513974072942603) |
 | ? 	| wynter.com 	| 25 	| yes 	|  	|  	| [@peeplaja](https://twitter.com/peeplaja/status/1587513974072942603) |
+| ? 	| pally.com 	| 7.5 	| yes 	|  	|  	| [@hazbubble](https://x.com/hazhubble/status/2083734714154889297?s=20) |
+| ? 	| voice.com/voiceos 	| 30000 	| yes 	|  	|  	| [kai brokering](https://x.com/kai_brokering/status/2083648996376301806?s=20) |
 | ? 	| nas.io/nas.co 	| 50/40 	|  	| yes 	|  	| [@nasdaily](https://twitter.com/nasdaily/status/1587526334930100229) |
 
 ### Search domain sales data
