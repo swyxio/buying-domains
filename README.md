@@ -103,6 +103,7 @@ for current (2024) sales info, particularly AI domains, see https://www.dnjourna
   - https://lauraroeder.com/how-i-nabbed-the-com-for-my-bootstrapped-startup-without-spending-a-million-bucks-6dc35c4606e9
   - My single biggest tip for getting a good deal on a domain purchase is being able to go into a transaction outcome independent. Like each time, we hadn't chosen our company name yet so had a good amount of leverage to simply choose a different name if we didn't like the price. https://twitter.com/ankurnagpal/status/1587438361559662593
 - Ideally, buy the .com before you've launched. Sellers increase the price if they know you have a company that is doing well and has a brand to protect. https://twitter.com/mariogabriele/status/1583194906516127745?s=20
+- check the renewal price, not just the first-year price. lots of newer extensions are cheap in year one and renew at 5-15x (e.g. .store $2.57 first year vs $43.77/yr renewal at one registrar). weekly CSV of first-year vs renewal for 532 TLDs: https://github.com/AlonDrilich/tld-renewal-prices
 
 ### Wait
 
